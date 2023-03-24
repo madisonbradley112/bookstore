@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1679679789149,122,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,122,0,2
+1679679789272,12,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,12,0,0
+1679679789285,13,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,12,0,0
+1679679789298,12,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,12,0,0
+1679679789311,14,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,14,0,0
+1679679789325,14,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,14,0,0
+1679679789339,14,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,14,0,0
+1679679789353,38,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,38,0,0
+1679679789392,12,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,12,0,0
+1679679789404,15,HTTP Request,200,OK,Thread Group 1-1,text,true,,34262,132,1,1,http://localhost:3000/search?q=Java,15,0,0
