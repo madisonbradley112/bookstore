@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1679634678797,61,HTTP Request,200,OK,Thread Group 1-1,text,true,,425156,119,1,1,http://localhost:3000/,55,0,1

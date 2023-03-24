@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1679633953077,1043,HTTP Request,200,OK,Thread Group 1-12,text,true,,425156,119,15,15,http://localhost:3000/,1038,0,14
+1679633953029,1094,HTTP Request,200,OK,Thread Group 1-8,text,true,,425156,119,14,14,http://localhost:3000/,1087,0,62
+1679633953029,1104,HTTP Request,200,OK,Thread Group 1-2,text,true,,425156,119,13,13,http://localhost:3000/,1098,0,62
+1679633953029,1189,HTTP Request,200,OK,Thread Group 1-5,text,true,,425156,119,12,12,http://localhost:3000/,1183,0,62
+1679633953029,1200,HTTP Request,200,OK,Thread Group 1-6,text,true,,425156,119,11,11,http://localhost:3000/,1194,0,62
+1679633953143,1184,HTTP Request,200,OK,Thread Group 1-13,text,true,,425156,119,10,10,http://localhost:3000/,1177,0,1
+1679633953029,1311,HTTP Request,200,OK,Thread Group 1-10,text,true,,425156,119,9,9,http://localhost:3000/,1305,0,62
+1679633953029,1316,HTTP Request,200,OK,Thread Group 1-3,text,true,,425156,119,8,8,http://localhost:3000/,1308,0,62
+1679633953029,1319,HTTP Request,200,OK,Thread Group 1-1,text,true,,425156,119,7,7,http://localhost:3000/,1311,0,62
+1679633953029,1324,HTTP Request,200,OK,Thread Group 1-9,text,true,,425156,119,6,6,http://localhost:3000/,1316,0,62
+1679633953029,1392,HTTP Request,200,OK,Thread Group 1-11,text,true,,425156,119,5,5,http://localhost:3000/,1386,0,62
+1679633953029,1397,HTTP Request,200,OK,Thread Group 1-4,text,true,,425156,119,4,4,http://localhost:3000/,1391,0,62
+1679633953029,1414,HTTP Request,200,OK,Thread Group 1-7,text,true,,425156,119,3,3,http://localhost:3000/,1407,0,62
+1679633953210,1238,HTTP Request,200,OK,Thread Group 1-14,text,true,,425156,119,2,2,http://localhost:3000/,1230,0,1
+1679633953278,1249,HTTP Request,200,OK,Thread Group 1-15,text,true,,425156,119,1,1,http://localhost:3000/,1245,0,0
